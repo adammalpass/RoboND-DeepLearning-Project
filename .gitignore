@@ -103,3 +103,8 @@ ENV/
 
 RUNS/
 
+#------------------My List---------------------_#
+/data/train/*
+/data/validation/*
+/data/sample_evaluation_data/*
+/data/runs/*
